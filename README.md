@@ -1,4 +1,5 @@
 # Go-CLI
+Program simulasi pengantaran seperti gojek.<br>
 Program ini dibuat untuk latihan bahasa pemrograman ruby sekalian untuk tugas SEA Compfest 2018.(*tidak lolos :v)
 
 Contoh run :<br>

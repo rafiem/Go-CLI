@@ -1,0 +1,19 @@
+Pada program ini saya menjalankan nya lewat fungsi main() .Didalamnya terdapat control statement untuk mengatur input user,
+"unit price" dalam program ini dapat dengan mudah diganti dengan mengganti variabel "set_harga" ,file history dapat juga diubah
+dengan mengganti variabel "file_history".
+
+Informasi mengenai posisi user dan driver hanya saya tampilkan lewat visualisasi map yang berupa simbol,di program ini saya tidak
+menyajikan informasi detail koordinat dari user dan semua driver.Driver terdekat juga hanya ditampilkan namanya saja.Semua perhitungan
+koordinat ada di belakang layar.
+
+Koordinat x dan y yang dipakai untuk user dan driver maksimal bernilai (map_size) - 1 ,karena koordinat dimulai dari 0.
+
+Program ini tidak menerima adanya data koordinat yang sama antar driver dan user,karena akan timpa saat penampilan maps.
+
+Rute yang diambil tidak melihat posisi dari driver lain sehingga tetap bisa lewat meski melewati koordinat driver lain.
+
+Jumlah max driver adalah (luas map) - 1.
+Besar Map minimal pada input 3 argumen adalah (3*3) 
+
+Pada program ini saya memaksimalkan untuk mengontrol semua input user yang ada,dan memberi kondisi yang diperlukan agar program ketika
+mendapat "unexpected input" dapat tetap berjalan / terminate dengan baik.
