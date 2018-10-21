@@ -1,0 +1,9 @@
+{
+   "mapsize" : 13,
+   "user_coordinate" : [11,5],
+   "driver_info" : [
+       {"name" : "Gola" , "coordinate_driver" : [0,4]},
+       {"name" : "Billy", "coordinate_driver" : [6,6]},
+       {"name" : "Brom" , "coordinate_driver" : [4,4]}
+   ]
+}
